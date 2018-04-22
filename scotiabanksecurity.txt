@@ -1,0 +1,3 @@
+General Security Practices Additional information that will help safe-guard your personal and financial information. 
+Security Questions and Answers By setting up your security questions and answers,
+you will have an extra layer of security to further authenticate your identity when you sign on to Scotia OnLine.
